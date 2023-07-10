@@ -81,8 +81,7 @@ class _PhotoShareState extends State<PhotoShare> {
                   )
                 ],
               ));
-          ;
-        });
+                  });
   }
 
   Widget itemPhoto(String photoPath) {

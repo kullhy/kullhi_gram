@@ -976,7 +976,7 @@ packages:
   tdlib:
     dependency: "direct main"
     description:
-      path: "packages/tdlib_min-main"
+      path: "packages/tdlib_min"
       relative: true
     source: path
     version: "1.5.9"
